@@ -37,16 +37,27 @@
 ]
 ```
 <font size="6">Build and run</font>
+
 ####Environment: _Dotnet Core 6.0_
+
 ####Restore: 
 ``dotnet restore``
+
 ####Build:
 ``dotnet build``
+
 ####Run:
 `` dotnet run --project .\congestion-tax-calculator\``
 
-<font size="6">Unit Tests</font>
-![](https://github.com/AmushereTB/congestion-tax-calculator/blob/main/Img/Capture1.PNG)
-
-<font size="6">Postman img</font>
-![](https://github.com/AmushereTB/congestion-tax-calculator/blob/main/Img/Capture2.PNG)
+<figure>
+  <figcaption>Unit Test</figcaption>
+  <img
+  src="https://github.com/AmushereTB/congestion-tax-calculator/blob/main/Img/Capture1.PNG"
+  alt="Unit test image.">
+</figure>
+<figure>
+  <figcaption>Postman Image</figcaption>
+  <img
+  src="https://github.com/AmushereTB/congestion-tax-calculator/blob/main/Img/Capture2.PNG"
+  alt="Postman image.">
+</figure>
