@@ -43,6 +43,6 @@
 `` dotnet run --project .\congestion-tax-calculator\``
 
 <font size="6">Unit Tests</font>
-![](D:\Projects\congestion-tax-calculator\Img\Capture1.PNG)
+![](.\congestion-tax-calculator\Img\Capture1.PNG)
 <font size="6">Postman img</font>
-![](D:\Projects\congestion-tax-calculator\Img\Capture2.PNG)
+![](.\congestion-tax-calculator\Img\Capture2.PNG)
