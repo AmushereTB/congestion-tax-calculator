@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "congestion-tax-calculator", "congestion-tax-calculator\congestion-tax-calculator.csproj", "{A4D038D6-F63F-45D3-ACDC-50F994354F34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "congestion-tax-calculator.test", "congestion-tax-calculator.test\congestion-tax-calculator.test.csproj", "{66869CCC-A5B7-44E0-9AF0-B3A0BEF5C821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4D038D6-F63F-45D3-ACDC-50F994354F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4D038D6-F63F-45D3-ACDC-50F994354F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4D038D6-F63F-45D3-ACDC-50F994354F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4D038D6-F63F-45D3-ACDC-50F994354F34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66869CCC-A5B7-44E0-9AF0-B3A0BEF5C821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66869CCC-A5B7-44E0-9AF0-B3A0BEF5C821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66869CCC-A5B7-44E0-9AF0-B3A0BEF5C821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66869CCC-A5B7-44E0-9AF0-B3A0BEF5C821}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
