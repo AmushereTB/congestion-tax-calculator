@@ -2,8 +2,11 @@
 <hr style="border:1px solid gray"/>
 
 ####API URL: https://localhost:7266/api/TaxCalculation
+
 ####API Method: POST
+
 ####API Content Type: application/json
+
 #####Input Example:
 ```
 {
@@ -43,6 +46,7 @@
 `` dotnet run --project .\congestion-tax-calculator\``
 
 <font size="6">Unit Tests</font>
-![](.\congestion-tax-calculator\Img\Capture1.PNG)
+![](https://github.com/AmushereTB/congestion-tax-calculator/blob/main/Img/Capture1.PNG)
+
 <font size="6">Postman img</font>
-![](.\congestion-tax-calculator\Img\Capture2.PNG)
+![](https://github.com/AmushereTB/congestion-tax-calculator/blob/main/Img/Capture2.PNG)
